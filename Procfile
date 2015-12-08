@@ -1,1 +1,2 @@
-web: node index.js
+web: sh cd ghost
+web: npm start --production
